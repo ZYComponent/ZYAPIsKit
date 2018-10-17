@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZYAPIsKit_Example' do
+  pod 'ZYAPIsKit', :path => '../'
+
+  target 'ZYAPIsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

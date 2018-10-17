@@ -1,0 +1,30 @@
+{
+  "name": "ZYAPIsKit",
+  "version": "0.1.2",
+  "summary": "A short description of ZYAPIsKit.",
+  "description": "TODO: Add long description of the pod here.详细描述",
+  "homepage": "https://github.com/ZYComponent/ZYAPIsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1362226852@qq.com": "1362226852@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ZYComponent/ZYAPIsKit",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZYAPIsKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "ZYToolsKit": [
+
+    ]
+  }
+}
